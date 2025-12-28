@@ -26,8 +26,6 @@ based on academic performance, demographic attributes, and socio-economic factor
 - **Dataset Name:** Predict Students Dropout and Academic Success  
 - **Target Classes:** `Dropout`, `Enrolled`, `Graduate`
 
-> ⚠️ The dataset is **not included** in this repository and must be downloaded separately from UCI due to licensing restrictions.
-
 ---
 
 ## 🧠 Machine Learning Techniques Used
