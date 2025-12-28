@@ -22,7 +22,7 @@ from sklearn.metrics import (
 )
 
 # 1. Load Dataset
-df = pd.read_csv("students_dropout.csv")
+df = pd.read_csv("cleaned_data.csv")
 target_col = "Target"
 
 # Binary target
