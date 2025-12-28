@@ -1,5 +1,8 @@
 # 🎓 Student Dropout & Academic Success Prediction
 
+## Disclaimer
+AI was used in writing the README of this repository.
+
 ## 📌 Overview
 This repository contains a **university-level Applied AI & Machine Learning project** focused on **education analytics**.  
 The objective of the project is to predict **student academic outcomes** and **dropout risk** using supervised and unsupervised machine learning techniques.
@@ -94,5 +97,3 @@ based on academic performance, demographic attributes, and socio-economic factor
 - Feature importance plots
 
 ---
-
-## 🗂️ Project Structure
