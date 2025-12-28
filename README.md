@@ -88,7 +88,7 @@ based on academic performance, demographic attributes, and socio-economic factor
 
 ---
 
-## 📉 Visualizations
+## 📈 Visualizations
 - PCA cluster plots
 - Confusion matrices (Multiclass & Binary)
 - ROC curve for binary logistic regression
